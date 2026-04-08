@@ -24,4 +24,4 @@ Makine öğrenmesi prensiplerini uyguladığım bir sınıflandırma projesi.
 
 ### 📬 Benimle İletişime Geçin
 - 📧 [mertsenel6223@gmail.com](mailto:mertsenel6223@gmail.com)
-- 💼 [LinkedIn Profilim](www.linkedin.com/in/mert-şenel-a736a02ba)
+- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/mert-şenel-a736a02ba)
