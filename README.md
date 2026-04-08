@@ -21,10 +21,7 @@ Makine öğrenmesi prensiplerini uyguladığım bir sınıflandırma projesi.
 - **Teknolojiler:** Python, Scikit-learn, Matplotlib.
 - **Başarı:** KNN algoritması kullanarak yüksek doğruluk oranlı tahminleme ve confusion matrix analizi.
 
-### 📊 GitHub İstatistiklerim
-![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertsenel62&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertsenel62&layout=compact&theme=radical)
 
 ### 📬 Benimle İletişime Geçin
 - 📧 [mertsenel6223@gmail.com](mailto:mertsenel6223@gmail.com)
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/mert-senel-a736a02ba)
+- 💼 [LinkedIn Profilim](www.linkedin.com/in/mert-şenel-a736a02ba)
