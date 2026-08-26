@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Diller:** Python (Orta), JavaScript (Orta), PHP (Orta), Java & C# (Temel)
+- **Diller:** C#, Python, JavaScript, PHP, Java 
 - **Backend:** ASP.NET Core (Web API & MVC), Entity Framework Core
 - **Mobil:** React Native, Expo
 - **Veri Bilimi:** Scikit-learn, Pandas, Matplotlib, Veri Analizi
